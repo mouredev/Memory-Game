@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  MemoryGame
+
+  Created by Brais Moure on 11/5/22.
+  
+*/
+
+// Global
+
+"app.name" = "The video game consoles memory game";
+
+// Menu
+
+"menu.level.title" = "Select difficulty";
+"menu.level.easy" = "Easy";
+"menu.level.medium" = "Medium";
+"menu.level.hard" = "Hard";
+
+// Board
+
+"board.totalmovements" = "Total movements";
+"board.remainingpairs" = "Remaining pairs";
+"board.start" = "Select a card to start";
+"board.won" = "You've won";
+"board.lost" = "You've lost";
+
